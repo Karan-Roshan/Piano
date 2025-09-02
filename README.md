@@ -27,7 +27,7 @@ This project demonstrates the use of semantic HTML, CSS positioning, hover effec
 
 # My Project
 <p align="center">
-  <img src="https://github.com/Karan-Roshan/Cat-Face/blob/78de366ebb99ba59c486b57a6210f1dff5477ced/Cat%20Cute%20Face.png" 
+  <img src="https://github.com/Karan-Roshan/Piano/blob/ab4f3c620f36bba3859ad10414514f5d6259697b/Piano%20Image.png" 
        alt="Piano Image" 
        width="300">
 </p>
